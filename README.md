@@ -1,8 +1,4 @@
-Here’s a **README.md** you can drop into your project folder — it explains what your app does, how to run it, and shows examples:
 
----
-
-````markdown
 # 🔐 Decryption Tool (Tkinter GUI)
 
 A simple Python GUI tool for decrypting text encrypted with common ciphers.  
